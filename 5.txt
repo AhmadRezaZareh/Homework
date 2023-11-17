@@ -1,0 +1,29 @@
+English => 
+
+1-start 
+2-create n for give number 
+3- n = n ^ 2
+4 - create counter = 1 
+5- create temp = 0
+6-while temp != n print (n = counter + counter)
+7- counter = counter + 2 
+8- temp = temp + counter
+9 - end 
+
+
+Persian =>
+
+1-شروع
+2-یک متغیر به اسم n بساز 
+3- ورودی را از کاربر بگیر
+4- یک متغیر برای شمارش اعداد فرد به ساز به اسم counter 
+5-مقدار اولیه counter  = 1
+6- متغیر n را به توان 2 برسان 
+7- n = n **2 
+8-یک متغیر خالی برای جمع اعداد فرد درست کن
+9- temp = 0
+10- تا زمانی که temp != n
+11- نمایش بده به صورت n = counter +
+12 - متغیر temp در هر مرحله مقدار counter به آن اضافه کن
+13-پایان
+

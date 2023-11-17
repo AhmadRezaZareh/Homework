@@ -1,0 +1,25 @@
+English =>
+
+1-Start 
+2-create variable by name = Time
+3-input time 
+4-create 3 variable H => hours  M => minutes S => Secend 
+5-S = int(Time%60)
+6-M = int((Time/60)%60)
+7-H = int ((Time/3600))
+8-print (H:M:S)
+9 - end 
+
+فارسی =>
+
+1-شروع
+2-یک متغیر به ساز به اسم Time 
+3-زمان را از وردوی بگیر و درون Time بریز 
+4- متغیر  بساز برادی درج ثانیه به اسم S 
+5 - متغیر به ساز برای درج دقیقه به اسم M
+6 - متغیر بساز برای درج ساعت به اسم H
+7-S = int(Time%60)
+8-M = int((Time/60)%60)
+9-H = int ((Time/3600))
+10 - نمایش به مقادیر را به صورت H:M:S
+11-پایان

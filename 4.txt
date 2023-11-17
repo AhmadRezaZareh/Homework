@@ -1,0 +1,38 @@
+English =>
+1-start
+2- Receive the binary number as input.
+3- Set the initial value of the decimal number to zero (e.g., decimal = 0).
+4- Starting from the rightmost digit of the binary number, move towards the left.
+5- For each digit:
+   1. Multiply the digit by 2 raised to the power of its position (starting from 0 for the rightmost digit).
+   2. Add the result to the decimal number.
+   3. Move to the next digit.
+6- The final decimal number is the result.
+7 - end !
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Persian =>
+1-شروع
+2- دریافت عدد n و مبنای b.
+3- مقدار اولیه برای مبنای 10 را صفر قرار دهید (مانند result = 0).
+4- شروع از رقم یمین‌ترین عدد (رقم کمترین ارزش) و به سمت چپ حرکت کنید.
+5- برای هر رقم:
+   1. ضرب رقم در مقدار مبنای b را حساب کنید.
+   2. حاصل را به مقدار result اضافه کنید.
+   3. به رقم بعدی بروید.
+6- نتیجه‌ی نهایی را در متغیر result دارید.
+
+7-پایان
+
